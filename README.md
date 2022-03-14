@@ -15,6 +15,7 @@ Tri 3 Team Repository: [RedTailedHawks](https://github.com/mistylavender/RedTail
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### History Timebox
+
 | Week | Mort's Tech Talk | My Notes | My Code | 
 | ---- | ---------------- | -------- | ------- | 
 | 0 | [TT0: Data Structures](https://github.com/nighthawkcoders/nighthawk_csa/wiki/Tri-3:-Tech-Talk-0---Data-Structures) | [Link](https://github.com/rkwreck/rinik/wiki/TT0-Data-Structures-Notes) | [Link](https://github.com/rkwreck/rinik/wiki/TT0-Data-Structure-Code) | 
