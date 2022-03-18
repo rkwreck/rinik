@@ -16,8 +16,6 @@ Tri 3 Team Repository: [RedTailedHawks](https://github.com/mistylavender/RedTail
 
 ### History Timebox
 
-| Home | Menu | Code | Notes | Crossover Grading | Review Tickets | 
-
 | Week | Mort's Tech Talk | My Notes | My Code | Crossover Partner | Review Ticket | 
 | ---- | ---------------- | -------- | ------- | ----------------- | ------------- | 
 | 0 | [TT0: Data Structures](https://github.com/nighthawkcoders/nighthawk_csa/wiki/Tri-3:-Tech-Talk-0---Data-Structures) | [Link](https://github.com/rkwreck/rinik/wiki/TT0-Data-Structures-Notes) | [Link](https://github.com/rkwreck/rinik/wiki/TT0-Data-Structure-Code) | Flora: [Ticket](https://github.com/florayuan18/just-to-suffer/issues/1) | [My Ticket](https://github.com/rkwreck/rinik/issues/1) | 
